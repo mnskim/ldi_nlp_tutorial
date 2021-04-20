@@ -4,9 +4,9 @@ Please visit [Language and Data Intelligence Lab](https://seungwonh.github.io/ld
 
 This tutorial is largely based on fastai's excellent [NLP Lecture Series](https://github.com/fastai/course-nlp). The course is taught in Python with Google Colab Notebooks, using libraries such as sklearn, nltk, pytorch, and fastai.
 
-## Table of Contents
+For any questions or comments, please contact [minsoo9574@gmail.com](minsoo9574.gmail.com).
 
-*Links are being updated*
+## Table of Contents
 
 First, add the following Google Drive folder to your own Google Drive: [Preprocessed Data](https://drive.google.com/drive/folders/17Wg-S8_mZwVAW9z96DmZIJVvWSvhrDRZ?usp=sharing). Next, we'll visit each of the links below to run the tutorial codes in Google Colab.
 
