@@ -20,3 +20,4 @@ Part 2\. [Introduction to NLP with Deep Learning: Machine Translation](https://c
   - RNN
   - GRU
   - Seq2Seq for French to English translation
+  - Attention
