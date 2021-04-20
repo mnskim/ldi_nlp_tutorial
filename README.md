@@ -9,6 +9,7 @@ This tutorial is largely based on fastai's excellent [NLP Lecture Series](https:
 *Links are being updated*
 
 The following topics will be covered:
+
 Part 1\. [Introduction to NLP: Sentiment Classification](https://colab.research.google.com/drive/1QBSKylxuv6xZ99lL8dmC7aqccETOeGMl?usp=sharing)
   - Sentiment Classification without Deep Learning
   - Data handling for NLP
