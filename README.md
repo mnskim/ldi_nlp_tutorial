@@ -4,7 +4,7 @@ Please visit [Language and Data Intelligence Lab](https://seungwonh.github.io/ld
 
 This tutorial is largely based on fastai's excellent [NLP Lecture Series](https://github.com/fastai/course-nlp). The course is taught in Python with Google Colab Notebooks, using libraries such as sklearn, nltk, pytorch, and fastai.
 
-For any questions or comments, please contact [minsoo9574@gmail.com](minsoo9574.gmail.com).
+For any questions or comments, please contact [minsoo9574@gmail.com](mailto:minsoo9574.gmail.com).
 
 ## Table of Contents
 
