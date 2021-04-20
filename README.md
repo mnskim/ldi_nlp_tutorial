@@ -8,9 +8,9 @@ This tutorial is largely based on fastai's excellent [NLP Lecture Series](https:
 
 *Links are being updated*
 
-Preliminaries: First, add the following Google Drive folder to your own Google Drive: [Preprocessed Data](https://drive.google.com/drive/folders/17Wg-S8_mZwVAW9z96DmZIJVvWSvhrDRZ?usp=sharing)
+First, add the following Google Drive folder to your own Google Drive: [Preprocessed Data](https://drive.google.com/drive/folders/17Wg-S8_mZwVAW9z96DmZIJVvWSvhrDRZ?usp=sharing). Next, we'll visit each of the links below to run the tutorial codes in Google Colab.
 
-The following topics will be covered:
+We'll cover the following topics:
 
 Part 1\. [Introduction to NLP: Sentiment Classification](https://colab.research.google.com/drive/1QBSKylxuv6xZ99lL8dmC7aqccETOeGMl?usp=sharing)
   - Sentiment Classification without Deep Learning
