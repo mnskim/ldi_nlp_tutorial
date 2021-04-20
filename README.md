@@ -16,7 +16,7 @@ Part 1\. [Introduction to NLP: Sentiment Classification](https://colab.research.
   - Logistic regression with Naive Bayes features, with trigrams
  
 
-Part 2\. [Introduction to NLP with Deep Learning: Machine Translation](https://colab.research.google.com/drive/1tuKGwCclkYYFusKh-WLQ7767a4TWy4FY?usp=sharing)
+Part 2\. [Introduction to NLP with Deep Learning: Machine Translation](https://colab.research.google.com/drive/1tuKGwCclkYYFusKh-WLQ7767a4TWy4FY?usp=sharing) *This link is being updated
   - RNN
   - GRU
   - Seq2Seq for French to English translation
