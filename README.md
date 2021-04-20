@@ -6,17 +6,15 @@ This tutorial is largely based on fastai's excellent [NLP Lecture Series](https:
 
 ## Table of Contents
 The following topics will be covered:
-
+*Links are being updated*
 Part 1\. [Introduction to NLP: Sentiment Classification](https://colab.research.google.com/drive/1QBSKylxuv6xZ99lL8dmC7aqccETOeGMl?usp=sharing)
   - Sentiment Classification without Deep Learning
   - Data handling for NLP
   - Dictionary, Vocabulary, Bag-of-words
-  - Logistic regression
-  - Ngrams
-  - Logistic regression with Naive Bayes features, with trigrams
+  - Naive Bayes classifier
  
 
-Part 2\. [Introduction to NLP with Deep Learning: Machine Translation](https://colab.research.google.com/drive/1tuKGwCclkYYFusKh-WLQ7767a4TWy4FY?usp=sharing) *This link is being updated
+Part 2\. [Introduction to NLP with Deep Learning: Machine Translation](https://colab.research.google.com/drive/1vrDgn-hZeeXB93XuRuYK1LrZjMhN_8XB?usp=sharing)
   - RNN
   - GRU
   - Seq2Seq for French to English translation
