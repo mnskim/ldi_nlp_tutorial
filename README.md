@@ -8,7 +8,8 @@ For any questions or comments, please contact [minsoo9574@gmail.com](mailto:mins
 
 ## Table of Contents
 
-First, add the following Google Drive folder to your own Google Drive: [Preprocessed Data](https://drive.google.com/drive/folders/17Wg-S8_mZwVAW9z96DmZIJVvWSvhrDRZ?usp=sharing). Next, we'll visit each of the links below to run the tutorial codes in Google Colab.
+First, add the following Google Drive folder to your own Google Drive: [Preprocessed Data](https://drive.google.com/drive/folders/17Wg-S8_mZwVAW9z96DmZIJVvWSvhrDRZ?usp=sharing). 
+Next, we'll visit each of the links below to run the tutorial codes in Google Colab.
 
 We'll cover the following topics:
 
