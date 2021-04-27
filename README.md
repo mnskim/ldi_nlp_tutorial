@@ -28,3 +28,14 @@ Part 2\. [Introduction to NLP with Deep Learning: Machine Translation](https://c
   - GRU
   - Seq2Seq for French to English translation
   - Attention
+
+Part 3\. [Introduction to Transformers](https://colab.research.google.com/drive/1V52w2VdSA8BxopGIMZQfHm1-VlP8vlrr?usp=sharing)
+  - Transformers
+  - Positional Embeddings
+  - Self-attention
+  - Layernorm
+
+Part 4\. [Introduction to BERT Finetuning](https://colab.research.google.com/drive/1tvsV6KBvElrR3AIhfyFPQ2hxWVJmEXko?usp=sharing)
+  - BERT
+  - Finetuning
+  - GLUE task
